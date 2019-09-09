@@ -21,6 +21,9 @@ This project uses python 2.7 with pip
 ## Screenshot of results
 ![alt text](https://i.ibb.co/jGchw8N/image.png)
 
+## See the results in the CI tool
+[![Build Status](https://semaphoreci.com/api/v1/macwilliam92-19/googlon-challenge/branches/master/badge.svg)](https://semaphoreci.com/macwilliam92-19/googlon-challenge)
+
 ## Package usage
 
 GooglonAnalyzer is a class with static methods so you can include the package as part of your project and include it using:
