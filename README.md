@@ -6,17 +6,20 @@ This project uses python 2.7 with pip
 
 ## Setup
 
-1. Create a new virtualenv
-> virtualenv ./googlon-env
+1. Create a new virtualenv  
+`virtualenv ./googlon-env`
 
-2. Activate the virtualenv
-> source ./googlon-env/bin/activate
+2. Activate the virtualenv  
+`source ./googlon-env/bin/activate`
 
-3. Install python dependencies
-> pip install -r requirements.txt
+3. Install python dependencies  
+`pip install -r requirements.txt`
 
-## Run tests and see the results
-> python -m pytest -v -s
+## Run tests and see the results  
+`python -m pytest -v -s`
+
+## Screenshot of results
+![alt text](https://i.ibb.co/jGchw8N/image.png)
 
 ## Package usage
 
